@@ -1,0 +1,63 @@
+git satatus - SErve para visualizar os meus aquivos
+
+os vermelhos nao estão add e os verdes sim
+
+git add "nome do arquivo" - serve para adicionar ao controle de verção
+
+git add . - serve para add todos os aquivos no controle de verção
+
+git commit -m "nome da funcionalidade nova" - serve para criar uma verção para o meu codigo fonte para enviar a nuvem
+
+-m - siguinifica menssagem
+---------------------------------
+
+Criar um repositorio no gihub
+
+
+git config --global user.name "nome do usuario" - serve para loalizar e conectar o git com o github
+git config --global user.email "email cadastrado na conta do github" - serve para localizar o email e conectar ao github
+
+git commit -m "nome da funcionalidade nova" - serve para criar uma verção para o meu codigo fonte para enviar a nuvem
+
+git remote add origin "link do repositorio" - serve para link o meu repositorio remoto
+
+escolher qual branch " exp - são caminhos para onde eu quero enviar meus codigos fontes
+master
+main 
+
+git push --set-upstream origin 'master' - serve para selecionar o caminho do repositorio
+
+git push - serve para enviar para o repositorio do github
+
+o que espesificar :
+
+-------------------------------------
+
+para atualizar novas funcionalidades
+
+
+git branch - serve para ver qual repositorio estou e quis tenho criadas" exp - master "
+
+git branch 'nome da branch' - serve para criar uma nova branch
+
+git checkout 'nome da branch' - serve para entra na branch escolhida 
+
+---------------------------------------
+
+verificar o historico de verções das branch
+
+
+git reflog - serve para ver as verções do meu codigo
+
+git reset --hard 'cola a versão que quer voltar' - serve para volta para as versões inicias do projeto caso de problemas 
+
+------------------------------------------
+
+como ouculta os aquivos no github
+
+
+touch .gitignore - serve para aqueles aquivos que nao deseja subir para o github
+
+git merge 'teste' - servepara unir os codigos de uma branch a outras
+
+git log - serve para ver informaçoes gerais
