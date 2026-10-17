@@ -1,3 +1,11 @@
+git init - serve paraa cria uma pasta de repositorio dentro da pasta escolhida
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Guerreiro5522/Meus-projetos.git
+git push -u origin main
 git satatus - SErve para visualizar os meus aquivos
 
 os vermelhos nao estão add e os verdes sim

@@ -1,0 +1,52 @@
+Como outras pessoas irão ver meu site/
+
+Primeiro entendo que preciso ter um domínio, um nome único para que possam identificar meu site, e também um lugar para hospedar os meus projetos
+
+----------------------------------------------------------------------------------------
+Agora supondo ao contrário, eu quero acessar um site... "deixarei em passos"
+
+1. Entro no navegador
+
+2.Ponho o nome do site
+
+3. É encaminhado ao DNS para validar a informação
+
+4. Ao encontrar e validar, a validação volta para o meu PC que será encaminhado ao servidor no qual está hospedado o site
+
+--------------------------------------------------------------------------------------------
+Domínio
+--> Nome único
+--> Pagamento anualmente
+--> Vários TLDs
+
+Hospedagem
+--> Espaço para armazenar arquivos
+--> Pago mensalmente
+--> Espaço, Memória, Recursos
+
+---------------------------------------------------------------------------------------------
+Explicando sobre as URLs
+
+exp.: www.github.com/Gustavoguanabara
+
+www - Sub-domínio
+github.com - Domínio
+com - TLD
+Após o " / " vem o Caminho
+
+.com - Comerciais
+.net
+.io
+.info
+.online
+.store - Para lojas
+
+Todos são " gTLD " e a letra " g " significa genérica
+
+.edu - Educacionais
+.gov - Governamentais
+
+ccTLDs - Country code
+
+--> .com.br
+Significa que representa o país de origem

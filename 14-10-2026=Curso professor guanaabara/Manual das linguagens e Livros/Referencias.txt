@@ -1,0 +1,40 @@
+Refeerencias on-line --> Manual das linguagens 
+
+° Referencia MDN
+        > Mozilla Developer Network
+
+° W3C Standards
+        > World Wid web Consortiun
+
+° Whatwg living standard
+        > Web Hypertext Aplication technologi working group
+
+°W3S Chools
+        > Refsnes Data
+
+----------------------------------------------------------------
+
+Refereencias de livros
+
+1. Html/Mark pilgrim
+        > O'Reily
+
+2. Css/Ericmeir
+        > O'Reily
+
+3. Html5 e css/Elizabeth castro e bruce hyslop
+        > Alta books
+
+4. Html & Css/Jon Duckett
+        > Alta books
+
+5. Html e Css/ Elisabeth robson e eric freean
+        > Alta books
+
+6. Flexbox Explained/Jorge montoya e stephen burge
+        > Ostraining
+
+7. Css grid explained/Jorge montoya e stephen burge
+        > Ostraining
+
+---------------------------------------------------------------

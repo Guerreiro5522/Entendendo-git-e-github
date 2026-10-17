@@ -1,0 +1,60 @@
+como a internet funciona?
+
+-- Representaçaõ de dados
+
+      computador e um equipamento eletronico que funciona por sinais que são represenbtados como " 0 e 1 "
+
+0 e 1 -> Birary digit / Bit
+
+ Porem para o computador entender o que seguinifica entao se reune uma combinaçãao de "8 numeros que e a porção minima que representa algum dado"
+
+No qual essa sequente tambem tem um nome que seria..
+
+ --> 01000001 ---> 8 bits/Byte
+
+ 1 byte e uma sequencia de 8 bits
+ 
+-------------------------------------------------------------
+
+01000001 = A
+  °Codigo multibyte
+        > UTF-8
+
+multiplos do baity - sempre a referencia e " 1024 "
+
+exemplo - quando eu tenho 8 bytes eu tenho 1 byte
+e quando eu tenho 1024 byte eu terei 1 KB/kilobits
+
+exemplos
+
+1024 bytes = 1 KB
+1024 KB = 1 MB
+1024 MB = 1 GB
+1024 GB = 1 TB
+1024 TB = 1 PB
+1024 PB = 1 EB
+1024 EB = 1 ZB
+1024 ZB = 1 YB
+---------------------
+MB - Megabytes
+Mb - Megabits
+
+-------------------------------------------------------
+
+Como nos conectamos?
+
+Exemplo
+
+Cliente Computador - Pq cliente, pq estou fazendo um uso de um serviço
+
+moden - serve para fazer a modulação e demodulação
+
+rede telefonica
+
+internet
+
+-----------------------------------------------------------
+
+#agenda eletronica
+ servido Dns - sistema de nome de dominio
+

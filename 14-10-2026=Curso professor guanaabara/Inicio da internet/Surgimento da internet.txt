@@ -1,0 +1,80 @@
+Onde surgiu a internet
+
+--> Nasceu no período da Guerra Fria, aproximadamente em 1949.
+--> Já em 1969, nasceu o Sputnik pela União Soviética - que foi o primeiro satélite artificial a ser lançado.
+--> E em 1969 foi criada a "DARPA" para guardar os backups dos dados militares.
+
+---------------------------------------------------------------------------------------------
+
+Após o protocolo "NCP", conhecido como protocolo de controle de rede, ter sido criado...
+
+---------------------------------------------------------------------------------------------
+
+Porém, com o grande aumento de computadores, Bob Kahn criou o protocolo TCP, mas não foi o bastante para segurar o aumento das redes, e por conta disso Vint Cerf criou o protocolo IP.
+Juntos formaram o "TCP/IP", assim conseguindo sustentar toda a infraestrutura.
+
+---------------------------------------------------------------------------------------------
+
+Após tudo isso, foi criada a "Arpanet", que continha em conjunto tanto as redes militares quanto a comunidade científica e comercial.
+
+Porem, com o crescimento, ficou insustentável um único grupo cuidar de todas essas redes, e então tiveram que dividi-las.
+
+Então, da Arpanet ficou...
+
+1. Milnet
+
+2. NSFNET
+
+3. Comercial
+
+Assim, com essa divisão, ficou bem mais razoável gerenciar todas as redes.
+
+---------------------------------------------------------------------------------------------------
+Mas havia um problema com a divisão das redes: elas não se comunicavam entre si. Para resolver isso, foi criado a...
+
+--> Interconnect networking - que com o tempo foi sendo abreviada para...
+--> Internetworking - que também ganhou outra abreviação...
+--> Internet - a qual conhecemos hoje.
+
+---------------------------------------------------------------------------------------------------
+
+O que compõe a internet:
+
+--> A internet não é somente uma rede, e sim um conjunto de várias redes.
+
+Como era a internet:
+--> Usava-se somente o teclado para se guiar pelas opções que apareciam na tela, pois era somente texto.
+
+--------------------------------------------------------------------------------------------------
+
+HTTP, WWW e HTML:
+
+--> Tim Berners-Lee criou um protocolo que se juntou ao TCP/IP, que seria o "HTTP", e também criou o "HTML" e a "WWW".
+
+--> Após isso, entrou Marc Andreessen, que criou o primeiro navegador da internet, que se chamava "Mosaic".
+
+---------------------------------------------------------------------------------------------------
+
+Significados das siglas:
+
+--> WWW --> Rede de alcance mundial
+
+--> FTP --> Transferência de arquivos
+
+--> Gopher --> Transferência de hipertextos simples
+
+--> SMTP, POP3, IMAP --> Recebem e enviam e-mails
+
+--> HTTP --> Servidores especializados
+
+----------------------------------------------------------------------------------------------------
+
+World Wide Web e WWW: qual a diferença?
+
+--> Internet > Rede mundial
+
+--> Dentro da internet > Conjunto de servidores especializados num determinado tipo de serviço ou protocolo.
+
+----------------------------------------------------------------------------------------------------
+
+WWW --> Também é um conjunto de servidores especializados em HTTP.

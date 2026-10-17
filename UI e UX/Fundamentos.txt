@@ -1,0 +1,34 @@
+1. Metodo double diamond
+
+O que significa --> Metodo de design Thinking Para ajudar a " Descobrir, Definir, Desenvolver e entregar ". Resumindo serve para guiar  
+
+        Sobre o problema
+
+Descobrir - Entender os problemas, pesquisar os publicos
+Definir - Suas descobertas + Problemas chaves
+
+         Sobre solução
+
+Desenvolver - Experimentação, testes, soluçoes possiveis
+Entregar- Suas melhores soluções , prototipos, entrega
+
+---------------------------------------------------------------
+2. Fundamentos visuais
+
+O que estudar..
+
+   Hieraquia visual
+   Consistencia
+   Tipografia/ Noção de tipografia/ Temas de tipografia/ Contextos/ cores
+   Escalas grid
+   Organização visual
+   Gestal - Organisa a maneira como aimterpreta as infimaçoes visuais
+   Logica de espassamentos
+   design responsivel
+   web/ epp
+
+--------------------------------------------------------------------
+3. Ferramentas
+
+Figmar - Gratuito e pago tambem
+ 
